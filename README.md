@@ -4,7 +4,8 @@
 - Initial assets were given and mock apis are provided inside the directory
 - Develop / design charts that represents the provided data
 - Explore and provide ways to improve the system.
-- Clone and re-deploy the page again with your progress for tech inspection (github pages will do | any free hosting site e.g vercel and provide the link in README.md)
+- Clone and re-deploy the page again with your progress for tech inspection 
+- (github pages will do | any free hosting site e.g vercel and make the repo public and put the deployed link in README.md and submit the repo link)
 
 ## Usage
 
