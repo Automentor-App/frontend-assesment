@@ -4,7 +4,7 @@
 - Initial assets were given and mock apis are provided inside the directory
 - Develop / design charts that represents the provided data
 - Explore and provide ways to improve the system.
-- Clone and re-deploy the page again with your progress for further inspection (github pages will do | any free hosting site e.g vercel)
+- Clone and re-deploy the page again with your progress for tech inspection (github pages will do | any free hosting site e.g vercel and provide the link in README.md)
 
 ## Usage
 
@@ -29,5 +29,10 @@ npm run build
 See [Configuration Reference](https://vitejs.dev/guide/).
 
 
-# Design was initial on CRUIP Mosaic
-![Mosaic TailwindCSS template preview](https://github.com/cruip/vuejs-admin-dashboard-template/assets/2683512/3b9af06c-f3b2-45c5-8c60-052989cbebcb)
+#### Design was initial base on CRUIP Mosaic
+https://github.com/cruip/vuejs-admin-dashboard-template/assets/2683512/3b9af06c-f3b2-45c5-8c60-052989cbebcb
+
+
+#### Ask if there are more questions / clarifications
+- poorna@automentor.app
+- vince@automentor.app
