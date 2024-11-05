@@ -1,4 +1,9 @@
 // contains API mock responses
+// you may modify the contents in a way
+// 1. can add more data
+// 2. add some keys
+// as much as possible retain the old keys, it is ok if some or most of them were not used, just retain
+// if there is modification, explain why it was done.
 
 
 export async function fetchMockSubscribers() {
