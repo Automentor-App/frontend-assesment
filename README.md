@@ -7,6 +7,8 @@
 - Clone and re-deploy the page again with your progress for tech inspection 
 - (github pages will do | any free hosting site e.g vercel and make the repo public and put the deployed link in README.md and submit the repo link)
 
+- Loom video [here](https://www.loom.com/share/e61190ce940846f6849d2ab3291b1b61?sid=67fdfcd4-6a76-4703-b33d-cc558f03c18a)
+
 ## Usage
 
 This project was built with [Vue 3](https://v3.vuejs.org/) and [Vite](https://vitejs.dev/).
